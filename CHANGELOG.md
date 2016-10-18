@@ -1,5 +1,18 @@
 # Change Log
 
+## [Unreleased](https://github.com/FlemmingBehrend/changelog/tree/HEAD)
+
+[Full Changelog](https://github.com/FlemmingBehrend/changelog/compare/v0.0.1...HEAD)
+
+**Fixed bugs:**
+
+- Defect one [\#2](https://github.com/FlemmingBehrend/changelog/issues/2)
+
+**Closed issues:**
+
+- new issue 55 [\#4](https://github.com/FlemmingBehrend/changelog/issues/4)
+- Issue one [\#1](https://github.com/FlemmingBehrend/changelog/issues/1)
+
 ## [v0.0.1](https://github.com/FlemmingBehrend/changelog/tree/v0.0.1) (2016-10-18)
 
 
